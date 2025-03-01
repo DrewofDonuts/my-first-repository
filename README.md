@@ -10,3 +10,6 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 
+I am making changes to this file. 
+
+
